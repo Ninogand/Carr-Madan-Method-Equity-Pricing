@@ -1,1 +1,1 @@
-# Carr-Madan-Method-Equity-Pricing
+# Carr&Madan_Method
